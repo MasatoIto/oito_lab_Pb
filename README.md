@@ -1,2 +1,2 @@
-# oito_lab_Pb
-Pablic Lab Project.
+# oito_lab_Public
+Public Lab Project.
